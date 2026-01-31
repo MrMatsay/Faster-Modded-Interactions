@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Faster Modded Interactions</name>
+	<author>Rosnok</author>
+	<description>A patch mod that accelerates custom interactions found throughout many other mods. For example: No longer will you take an IRL minute to extract intel from a single Empire building from VFE - Deserters missions. Useful for highly modded, low TPS environments where fast forwarding isn't an option anymore. (Or for impatient ADHD-ridden people like me)</description>
+	<supportedVersions>
+		<li>1.6</li>
+	</supportedVersions>
+	<packageId>Rosnok.FMI</packageId>
+	<loadAfter>
+		<li>oskarpotocki.vanillafactionsexpanded.core</li>
+		<li>vanillaquestsexpanded.cryptoforge</li>
+		<li>vanillaquestsexpanded.ancients</li>
+		<li>vanillaquestsexpanded.generator</li>
+		<li>vanillaquestsexpanded.deadlife</li>
+		<li>OskarPotocki.VFE.Deserters</li>
+		<li>xmb.ancienturbanruins.mo</li>
+		<li>Ludeon.RimWorld.Anomaly</li>
+		<li>sarg.alphabooks</li>
+		<li>sarg.alphaprefabs</li>
+		<li>sarg.alpharandom</li>
+	</loadAfter>
+</ModMetaData>

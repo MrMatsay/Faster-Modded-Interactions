@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="VQED_LockedSiloHatch"]/comps/li[@Class="VEF.Buildings.CompProperties_JammedAirlock"]/ticksToActivate</xpath>
+        <value>
+            <ticksToActivate>60</ticksToActivate>
+        </value>
+    </Operation>
+
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="VQED_StuckAncientSiloDoor"]/comps/li[@Class="VEF.Buildings.CompProperties_JammedAirlock"]/ticksToActivate</xpath>
+        <value>
+            <ticksToActivate>60</ticksToActivate>
+        </value>
+    </Operation>
+	
+</Patch>

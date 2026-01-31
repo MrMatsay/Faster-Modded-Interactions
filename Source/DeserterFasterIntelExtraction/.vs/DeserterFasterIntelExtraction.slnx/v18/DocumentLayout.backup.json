@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lance\\Desktop\\RIMWORLD EXPERIMENTAL\\DeserterFasterIntelExtraction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC17679-5A79-4052-8C04-4D0AA6E897DD}|..\\AlphaBooksFasterReading\\AlphaBooksFasterReading.csproj|c:\\users\\lance\\desktop\\rimworld experimental\\alphabooksfasterreading\\alphabooksfasterreading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1CB06D-A000-4242-A219-D465EDAF3355}|..\\AlphaPrefabsFasterUsage\\AlphaPrefabsFasterUsage.csproj|c:\\users\\lance\\desktop\\rimworld experimental\\alphaprefabsfasterusage\\alphaprefabsfasterusage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{923428DF-5134-43BF-8A6E-2722D554ADA4}|..\\AlphaRandomFasterOpening\\AlphaRandomFasterOpening.csproj|c:\\users\\lance\\desktop\\rimworld experimental\\alpharandomfasteropening\\alpharandomfasteropening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CEC49A-F381-4599-9D51-8AD7A6F314DE}|..\\AURFasterSalvageLoot\\AURFasterSalvageLoot.csproj|c:\\users\\lance\\desktop\\rimworld experimental\\aurfastersalvageloot\\aurfastersalvageloot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9F7621-516D-463E-8456-1F2607BB7E0B}|..\\VEFasterBuildingStudy\\VEFasterBuildingStudy.csproj|c:\\users\\lance\\desktop\\rimworld experimental\\vefasterbuildingstudy\\vefasterbuildingstudy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496900B8-ABED-4869-8A9D-9A7B5730CD63}|..\\VEFasterBuildingLoot\\VEFasterBuildingLoot.csproj|c:\\users\\lance\\desktop\\rimworld experimental\\vefasterbuildingloot\\vefasterbuildingloot2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496900B8-ABED-4869-8A9D-9A7B5730CD63}|..\\VEFasterBuildingLoot\\VEFasterBuildingLoot.csproj|c:\\users\\lance\\desktop\\rimworld experimental\\vefasterbuildingloot\\vefasterbuildingloot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{983BDEB7-A61E-47DF-BED3-CF17AA2038C9}|..\\GeneratorFasterStudy\\GeneratorFasterStudy.csproj|c:\\users\\lance\\desktop\\rimworld experimental\\generatorfasterstudy\\generatorfasterstudy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CD608C-4ECE-42FB-AC9A-FB7EE6387EEE}|DeserterFasterIntelExtraction.csproj|C:\\Users\\Lance\\Desktop\\RIMWORLD EXPERIMENTAL\\DeserterFasterIntelExtraction\\deserterfastersupplycrateopening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53CD608C-4ECE-42FB-AC9A-FB7EE6387EEE}|DeserterFasterIntelExtraction.csproj|solutionrelative:deserterfastersupplycrateopening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CD608C-4ECE-42FB-AC9A-FB7EE6387EEE}|DeserterFasterIntelExtraction.csproj|c:\\users\\lance\\desktop\\rimworld experimental\\deserterfasterintelextraction\\deserterfasterintelextraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53CD608C-4ECE-42FB-AC9A-FB7EE6387EEE}|DeserterFasterIntelExtraction.csproj|solutionrelative:deserterfasterintelextraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|DeserterFasterIntelExtraction||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlphaBooksFasterReading.cs",
+              "DocumentMoniker": "C:\\Users\\Lance\\Desktop\\RIMWORLD EXPERIMENTAL\\AlphaBooksFasterReading\\AlphaBooksFasterReading.cs",
+              "RelativeDocumentMoniker": "..\\AlphaBooksFasterReading\\AlphaBooksFasterReading.cs",
+              "ToolTip": "C:\\Users\\Lance\\Desktop\\RIMWORLD EXPERIMENTAL\\AlphaBooksFasterReading\\AlphaBooksFasterReading.cs",
+              "RelativeToolTip": "..\\AlphaBooksFasterReading\\AlphaBooksFasterReading.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T04:38:19.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlphaPrefabsFasterUsage.cs",
+              "DocumentMoniker": "C:\\Users\\Lance\\Desktop\\RIMWORLD EXPERIMENTAL\\AlphaPrefabsFasterUsage\\AlphaPrefabsFasterUsage.cs",
+              "RelativeDocumentMoniker": "..\\AlphaPrefabsFasterUsage\\AlphaPrefabsFasterUsage.cs",
+              "ToolTip": "C:\\Users\\Lance\\Desktop\\RIMWORLD EXPERIMENTAL\\AlphaPrefabsFasterUsage\\AlphaPrefabsFasterUsage.cs",
+              "RelativeToolTip": "..\\AlphaPrefabsFasterUsage\\AlphaPrefabsFasterUsage.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T06:58:23.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlphaRandomFasterOpening.cs",
+              "DocumentMoniker": "C:\\Users\\Lance\\Desktop\\RIMWORLD EXPERIMENTAL\\AlphaRandomFasterOpening\\AlphaRandomFasterOpening.cs",
+              "RelativeDocumentMoniker": "..\\AlphaRandomFasterOpening\\AlphaRandomFasterOpening.cs",
+              "ToolTip": "C:\\Users\\Lance\\Desktop\\RIMWORLD EXPERIMENTAL\\AlphaRandomFasterOpening\\AlphaRandomFasterOpening.cs",
+              "RelativeToolTip": "..\\AlphaRandomFasterOpening\\AlphaRandomFasterOpening.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T13:03:00.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AURFasterSalvageLoot.cs",
+              "DocumentMoniker": "C:\\Users\\Lance\\Desktop\\RIMWORLD EXPERIMENTAL\\AURFasterSalvageLoot\\AURFasterSalvageLoot.cs",
+              "RelativeDocumentMoniker": "..\\AURFasterSalvageLoot\\AURFasterSalvageLoot.cs",
+              "ToolTip": "C:\\Users\\Lance\\Desktop\\RIMWORLD EXPERIMENTAL\\AURFasterSalvageLoot\\AURFasterSalvageLoot.cs",
+              "RelativeToolTip": "..\\AURFasterSalvageLoot\\AURFasterSalvageLoot.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T00:24:06.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VEFasterBuildingStudy.cs",
+              "DocumentMoniker": "C:\\Users\\Lance\\Desktop\\RIMWORLD EXPERIMENTAL\\VEFasterBuildingStudy\\VEFasterBuildingStudy.cs",
+              "RelativeDocumentMoniker": "..\\VEFasterBuildingStudy\\VEFasterBuildingStudy.cs",
+              "ToolTip": "C:\\Users\\Lance\\Desktop\\RIMWORLD EXPERIMENTAL\\VEFasterBuildingStudy\\VEFasterBuildingStudy.cs",
+              "RelativeToolTip": "..\\VEFasterBuildingStudy\\VEFasterBuildingStudy.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T13:44:16.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VEFasterBuildingLoot2.cs",
+              "DocumentMoniker": "C:\\Users\\Lance\\Desktop\\RIMWORLD EXPERIMENTAL\\VEFasterBuildingLoot\\VEFasterBuildingLoot2.cs",
+              "RelativeDocumentMoniker": "..\\VEFasterBuildingLoot\\VEFasterBuildingLoot2.cs",
+              "ToolTip": "C:\\Users\\Lance\\Desktop\\RIMWORLD EXPERIMENTAL\\VEFasterBuildingLoot\\VEFasterBuildingLoot2.cs",
+              "RelativeToolTip": "..\\VEFasterBuildingLoot\\VEFasterBuildingLoot2.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T13:44:13.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VEFasterBuildingLoot.cs",
+              "DocumentMoniker": "C:\\Users\\Lance\\Desktop\\RIMWORLD EXPERIMENTAL\\VEFasterBuildingLoot\\VEFasterBuildingLoot.cs",
+              "RelativeDocumentMoniker": "..\\VEFasterBuildingLoot\\VEFasterBuildingLoot.cs",
+              "ToolTip": "C:\\Users\\Lance\\Desktop\\RIMWORLD EXPERIMENTAL\\VEFasterBuildingLoot\\VEFasterBuildingLoot.cs",
+              "RelativeToolTip": "..\\VEFasterBuildingLoot\\VEFasterBuildingLoot.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T13:44:08.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GeneratorFasterStudy.cs",
+              "DocumentMoniker": "C:\\Users\\Lance\\Desktop\\RIMWORLD EXPERIMENTAL\\GeneratorFasterStudy\\GeneratorFasterStudy.cs",
+              "RelativeDocumentMoniker": "..\\GeneratorFasterStudy\\GeneratorFasterStudy.cs",
+              "ToolTip": "C:\\Users\\Lance\\Desktop\\RIMWORLD EXPERIMENTAL\\GeneratorFasterStudy\\GeneratorFasterStudy.cs",
+              "RelativeToolTip": "..\\GeneratorFasterStudy\\GeneratorFasterStudy.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T13:44:01.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeserterFasterSupplyCrateOpening.cs",
+              "DocumentMoniker": "C:\\Users\\Lance\\Desktop\\RIMWORLD EXPERIMENTAL\\DeserterFasterIntelExtraction\\DeserterFasterSupplyCrateOpening.cs",
+              "RelativeDocumentMoniker": "DeserterFasterSupplyCrateOpening.cs",
+              "ToolTip": "C:\\Users\\Lance\\Desktop\\RIMWORLD EXPERIMENTAL\\DeserterFasterIntelExtraction\\DeserterFasterSupplyCrateOpening.cs",
+              "RelativeToolTip": "DeserterFasterSupplyCrateOpening.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA6wB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T05:17:02.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeserterFasterIntelExtraction.cs",
+              "DocumentMoniker": "C:\\Users\\Lance\\Desktop\\RIMWORLD EXPERIMENTAL\\DeserterFasterIntelExtraction\\DeserterFasterIntelExtraction.cs",
+              "RelativeDocumentMoniker": "DeserterFasterIntelExtraction.cs",
+              "ToolTip": "C:\\Users\\Lance\\Desktop\\RIMWORLD EXPERIMENTAL\\DeserterFasterIntelExtraction\\DeserterFasterIntelExtraction.cs",
+              "RelativeToolTip": "DeserterFasterIntelExtraction.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T13:43:45.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeserterFasterIntelExtraction",
+              "DocumentMoniker": "C:\\Users\\Lance\\Desktop\\RIMWORLD EXPERIMENTAL\\DeserterFasterIntelExtraction\\DeserterFasterIntelExtraction.csproj",
+              "RelativeDocumentMoniker": "DeserterFasterIntelExtraction.csproj",
+              "ToolTip": "C:\\Users\\Lance\\Desktop\\RIMWORLD EXPERIMENTAL\\DeserterFasterIntelExtraction\\DeserterFasterIntelExtraction.csproj",
+              "RelativeToolTip": "DeserterFasterIntelExtraction.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-25T05:24:07.658Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

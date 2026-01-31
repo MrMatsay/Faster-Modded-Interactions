@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="../AlphaBooksFasterReading/AlphaBooksFasterReading.csproj" Id="fec17679-5a79-4052-8c04-4d0aa6e897dd" />
+  <Project Path="../AlphaPrefabsFasterUsage/AlphaPrefabsFasterUsage.csproj" Id="bc1cb06d-a000-4242-a219-d465edaf3355" />
+  <Project Path="../AlphaRandomFasterOpening/AlphaRandomFasterOpening.csproj" Id="923428df-5134-43bf-8a6e-2722d554ada4" />
+  <Project Path="../AURFasterSalvageLoot/AURFasterSalvageLoot.csproj" Id="e0cec49a-f381-4599-9d51-8ad7a6f314de" />
+  <Project Path="../GeneratorFasterStudy/GeneratorFasterStudy.csproj" Id="983bdeb7-a61e-47df-bed3-cf17aa2038c9" />
+  <Project Path="../VEFasterBuildingLoot/VEFasterBuildingLoot.csproj" Id="496900b8-abed-4869-8a9d-9a7b5730cd63" />
+  <Project Path="../VEFasterBuildingStudy/VEFasterBuildingStudy.csproj" Id="8d9f7621-516d-463e-8456-1f2607bb7e0b" />
+  <Project Path="DeserterFasterIntelExtraction.csproj" Id="53cd608c-4ece-42fb-ac9a-fb7ee6387eee" />
+</Solution>
