@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FasterModdedInteractions", "FasterModdedInteractions.csproj", "{DF5D00D3-A7B6-46BB-9824-E9EA851235CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		1.6|Any CPU = 1.6|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF5D00D3-A7B6-46BB-9824-E9EA851235CC}.1.6|Any CPU.ActiveCfg = 1.6|Any CPU
+		{DF5D00D3-A7B6-46BB-9824-E9EA851235CC}.1.6|Any CPU.Build.0 = 1.6|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BC36917-CA08-4F0D-986E-96B40BB67327}
+	EndGlobalSection
+EndGlobal

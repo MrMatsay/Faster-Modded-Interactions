@@ -4,14 +4,8 @@
 		<li>1.6</li> 
 		<li IfModActive="vanillaquestsexpanded.cryptoforge">1.6/Mods/Cryptoforge</li>
 		<li IfModActive="vanillaquestsexpanded.ancients">1.6/Mods/Ancients</li>
-		<li IfModActive="vanillaquestsexpanded.generator">1.6/Mods/Generator</li>
 		<li IfModActive="vanillaquestsexpanded.deadlife">1.6/Mods/Deadlife</li>
-		<li IfModActive="OskarPotocki.VFE.Deserters">1.6/Mods/Deserters</li>
-		<li IfModActive="xmb.ancienturbanruins.mo">1.6/Mods/AncientUrbanRuins</li>
 		<li IfModActive="Ludeon.RimWorld.Anomaly">1.6/Mods/Anomaly</li>
-		<li IfModActive="sarg.alphabooks">1.6/Mods/AlphaBooks</li>
-		<li IfModActive="sarg.alphaprefabs">1.6/Mods/AlphaPrefabs</li>
-		<li IfModActive="sarg.alpharandom">1.6/Mods/AlphaRandom</li>
 	</v1.6>
 </loadFolders>
 
