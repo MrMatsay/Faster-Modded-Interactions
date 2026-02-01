@@ -33,9 +33,6 @@
     <ErrorReport>none</ErrorReport>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="0Harmony">
-      <HintPath>..\..\..\..\..\..\workshop\content\294100\2009463077\Current\Assemblies\0Harmony.dll</HintPath>
-    </Reference>
     <Reference Include="AlphaBooks">
       <HintPath>..\..\..\..\..\..\workshop\content\294100\3403180654\1.6\Assemblies\AlphaBooks.dll</HintPath>
       <Private>False</Private>
@@ -46,10 +43,6 @@
     </Reference>
     <Reference Include="AlphaRandom">
       <HintPath>..\..\..\..\..\..\workshop\content\294100\3642631969\1.6\Assemblies\AlphaRandom.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Assembly-CSharp">
-      <HintPath>..\..\..\..\RimWorldWin64_Data\Managed\Assembly-CSharp.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="System" />
@@ -76,6 +69,14 @@
   <ItemGroup>
     <Compile Include="HarmonyPatches.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Krafs.Rimworld.Ref">
+      <Version>1.6.4633</Version>
+    </PackageReference>
+    <PackageReference Include="Lib.Harmony">
+      <Version>2.4.2</Version>
+    </PackageReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
