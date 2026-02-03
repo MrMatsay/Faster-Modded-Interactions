@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Patch>
 
-    <Operation Class="PatchOperationReplace">
+    <!-- <Operation Class="PatchOperationReplace">
         <xpath>Defs/ThingDef[
 		defName="VQE_TwistedMetal" or
 		defName="VQE_LargeTwistedMetal" or
@@ -16,6 +16,6 @@
         <value>
             <WorkToBuild>60</WorkToBuild>
         </value>
-    </Operation>
+    </Operation> -->
 
 </Patch>

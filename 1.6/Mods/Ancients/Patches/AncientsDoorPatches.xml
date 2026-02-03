@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Patch>
 
-    <Operation Class="PatchOperationReplace">
+    <!-- <Operation Class="PatchOperationReplace">
         <xpath>Defs/ThingDef[defName="VQEA_LockedAncientVaultDoor"]/comps/li[@Class="VEF.Buildings.CompProperties_JammedAirlock"]/ticksToActivate</xpath>
         <value>
             <ticksToActivate>60</ticksToActivate>
@@ -13,6 +13,6 @@
         <value>
             <ticksToActivate>60</ticksToActivate>
         </value>
-    </Operation>
+    </Operation> -->
 	
 </Patch>
