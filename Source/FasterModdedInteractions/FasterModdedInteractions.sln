@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36623.8
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FasterModdedInteractions", "FasterModdedInteractions.csproj", "{DF5D00D3-A7B6-46BB-9824-E9EA851235CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneratorFasterStudy", "..\GeneratorFasterStudy\GeneratorFasterStudy.csproj", "{A951B5B3-21D2-4A77-80DD-E0E44816437B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		1.6|Any CPU = 1.6|Any CPU
@@ -12,6 +14,8 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{DF5D00D3-A7B6-46BB-9824-E9EA851235CC}.1.6|Any CPU.ActiveCfg = 1.6|Any CPU
 		{DF5D00D3-A7B6-46BB-9824-E9EA851235CC}.1.6|Any CPU.Build.0 = 1.6|Any CPU
+		{A951B5B3-21D2-4A77-80DD-E0E44816437B}.1.6|Any CPU.ActiveCfg = 1.6|Any CPU
+		{A951B5B3-21D2-4A77-80DD-E0E44816437B}.1.6|Any CPU.Build.0 = 1.6|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
