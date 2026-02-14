@@ -1,12 +1,9 @@
 ﻿using System.Collections.Generic;
-using HarmonyLib;
 using RimWorld;
 using Verse.AI;
 
 namespace FasterModdedInteractions
 {
-    [HarmonyPatchCategory("AlphaBooks")]
-    [HarmonyPatch(typeof(JobDriver_Reading), "MakeNewToils")]
     public static class Patch_Reading_Faster
     {
         public static IEnumerable<Toil> Postfix(IEnumerable<Toil> toils, JobDriver_Reading __instance)
@@ -18,7 +15,17 @@ namespace FasterModdedInteractions
                     var book = __instance.Book;
                     if (book?.def?.HasModExtension<AlphaBooks.BookDefModExtension>() == true)
                     {
-                        toil.defaultDuration = 60;
+                        switch (FMISettings.studySpeed)
+                        {
+                            case Speed.Normal:
+                                break;
+                            case Speed.Double:
+                                toil.defaultDuration = 1800;
+                                break;
+                            case Speed.Instant:
+                                toil.defaultDuration = 60;
+                                break;
+                        }
                     }
                 }
                 yield return toil;

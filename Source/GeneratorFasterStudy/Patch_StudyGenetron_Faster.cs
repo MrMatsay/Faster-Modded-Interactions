@@ -1,10 +1,8 @@
 ﻿using System.Collections.Generic;
-using HarmonyLib;
 using Verse.AI;
 
 namespace GeneratorFasterStudy
 {
-    [HarmonyPatch(typeof(VanillaQuestsExpandedTheGenerator.JobDriver_StudyGenetron), "MakeNewToils")]
     public static class Patch_StudyGenetron_Faster
     {
         public static IEnumerable<Toil> Postfix(IEnumerable<Toil> toils, VanillaQuestsExpandedTheGenerator.JobDriver_StudyGenetron __instance)

@@ -1,11 +1,22 @@
-﻿using HarmonyLib;
-
-namespace FasterModdedInteractions
+﻿namespace FasterModdedInteractions
 {
-    [HarmonyPatch(typeof(VEF.Buildings.LootableBuilding), "OpenTicks", MethodType.Getter)]
     public static class Patch_LootableBuilding_Faster
     {
-        public static void Postfix(ref int __result) 
-            => __result = 60;
+        public static void Postfix(ref int __result)
+        {
+            switch (FMISettings.lootSpeed)
+            {
+                case Speed.Normal:
+                    break;
+
+                case Speed.Double:
+                    __result = (int)(__result / 2f);
+                    break;
+
+                case Speed.Instant:
+                    __result = 30;
+                    break;
+            }
+        }
     }
 }

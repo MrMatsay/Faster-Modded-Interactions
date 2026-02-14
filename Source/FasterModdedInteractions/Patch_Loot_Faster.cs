@@ -1,11 +1,22 @@
-﻿using HarmonyLib;
-
-namespace FasterModdedInteractions
+﻿namespace FasterModdedInteractions
 {
-    [HarmonyPatch(typeof(VEF.Buildings.JobDriver_Loot), "TotalTime", MethodType.Getter)]
     public static class Patch_Loot_Faster
     {
-        public static void Postfix(ref int __result) 
-            => __result = (int)(__result * 0.1f); // Makes it 5x faster (20% of original time)
+        public static void Postfix(ref int __result)
+        {
+            switch (FMISettings.lootSpeed)
+            {
+                case Speed.Normal:
+                    break;
+
+                case Speed.Double:
+                    __result = (int)(__result / 2f);
+                    break;
+
+                case Speed.Instant:
+                    __result = 30;
+                    break;
+            }
+        }
     }
 }

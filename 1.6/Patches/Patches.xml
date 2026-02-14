@@ -4,7 +4,7 @@
 	<Operation Class="PatchOperationSequence">
 	<operations>
 
-    <li Class="PatchOperationReplace" MayRequireAnyOf="Anomaly, oskarpotocki.vanillafactionsexpanded.core">
+    <!--<li Class="PatchOperationReplace" MayRequireAnyOf="Anomaly, oskarpotocki.vanillafactionsexpanded.core">
         <xpath>Defs/ThingDef/comps/li[@Class="VEF.Buildings.CompProperties_JammedAirlock" or @Class="CompProperties_LabyrinthDoor"]/ticksToActivate</xpath>
         <value>
             <ticksToActivate>60</ticksToActivate>
@@ -26,7 +26,7 @@
         <value>
             <WorkToBuild>60</WorkToBuild>
         </value>
-    </li>
+    </li>-->
 	
 	</operations>
 	</Operation>

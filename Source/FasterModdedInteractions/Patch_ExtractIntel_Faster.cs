@@ -1,14 +1,11 @@
 ﻿using System.Collections.Generic;
-using HarmonyLib;
 using Verse.AI;
 
 namespace FasterModdedInteractions
 {
-    [HarmonyPatchCategory("VFEDeserters")]
-    [HarmonyPatch]
     public static class Patch_ExtractIntel_Faster
     {
-        public static void Postfix(ref IEnumerable<Toil> __result) 
+        public static void Postfix(ref IEnumerable<Toil> __result)
             => __result = ModifyToils(__result);
 
         static IEnumerable<Toil> ModifyToils(IEnumerable<Toil> toils)
@@ -17,7 +14,17 @@ namespace FasterModdedInteractions
             {
                 if (toil.defaultDuration == 3600)
                 {
-                    toil.defaultDuration = 60;
+                    switch (FMISettings.studySpeed)
+                    {
+                        case Speed.Normal:
+                            break;
+                        case Speed.Double:
+                            toil.defaultDuration = 1800;
+                            break;
+                        case Speed.Instant:
+                            toil.defaultDuration = 60;
+                            break;
+                    }
                 }
                 yield return toil;
             }
